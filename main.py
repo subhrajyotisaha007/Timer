@@ -62,7 +62,6 @@ window = Tk()
 window.title('your loom')
 window.minsize(width=500,height=500)
 window.config(pady=10,padx=10,bg=PINK)
-window.after(1000)
 
 
 #label
